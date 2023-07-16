@@ -1,6 +1,6 @@
 Hi I am Owoeye Samuel
 I am a well to do frontend developer with vast experience.
-I always work to learn mote to my present skills 
+I always work to learn more to my present skills 
 I am a professional in using HTMl, css and Js to build a web that suites your taste and the taste ofyour audience
 
 
